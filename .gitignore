@@ -1,0 +1,27 @@
+# Compiler
+*.out
+*.log
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.lib
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak
+*.old
+*.swp
+build
